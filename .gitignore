@@ -5,3 +5,6 @@ __pycache__/
 # Video Scripts
 s.txt
 script.txt
+
+# Data Files
+data/
